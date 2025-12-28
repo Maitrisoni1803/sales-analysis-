@@ -1,137 +1,96 @@
-<div align="center">
+📊 Interactive Sales Analysis Dashboard
 
-# Hi 👋, I'm Maitri soni
+ITCG Solutions Private Limited
 
-### Passionate about technology, driven by curiosity!"
+📂 Data Source
 
-</div>
+All dashboards in this project are built using the following Excel dataset:
 
-## 🚀 About Me
+FY2023-24 Salesman Wise Profit W_O Rebate 20191004 With Payment Details.xlsx
 
-I am a 2025 Bachelor of Engineering graduate from SVIT, Vasad, with 7–8 months of internship experience and strong hands-on skills across software development, SQL, Python, Excel, and Microsoft Data Analytics. I have contributed to multiple projects, improving data accuracy, workflow efficiency, and overall system performance through practical, results-driven solutions.
+Data Includes:
 
-## 📚 Learning & Knowledge
+Invoice and sales transaction details
 
-<div align="left">
+Salesperson and customer information
 
-- 🌱 I'm currently learning **I'm currently enhancing my skills in databases, SQL, and Python, while also exploring cloud computing with Azure. In addition, I'm learning automation and workflow tools like n8n and LangChain, data visualization and analytics using Power BI and Tableau, and database management and integration using SSMS and SSIS. Excited to apply these skills in real-world projects and continue growing in the data and automation space.**
+OEM and product type data
 
-</div>
+Location and territory details
 
-## 🚀 Projects
+Stock and purchase values
 
-| Project | Description | Links |
-|---|---|---|
-| portfolio | A modern, responsive portfolio website showcasing my skills, experience, education, and projects. Built with pure HTML, CSS, and JavaScript. | [Live](https://maitrisoni1803.github.io/portfolio/) / [GitHub](https://github.com/Maitrisoni1803/portfolio) |
-| sales analysis | This project is an interactive Sales Analysis Dashboard developed using Power BI, supported by Excel (2020–2023 sales data) and Python for data analysis and visualization. The dashboard is designed as one unified report with multiple pages, all focused on analyzing sales performance and related operational insights. The goal of this project is to transform raw sales data into clear, actionable insights that help understand business performance, trends, and areas for improvement. | [Live](https://app.fabric.microsoft.com/groups/me/reports/bf984727-a8bf-4b22-ad39-1074fb4b090e?experience=fabric-developer) / [GitHub](https://github.com/Maitrisoni1803/sales-2022-23-dashboard) |
-| Business Performance  | This project is an interactive Sales Analysis Dashboard system developed using Power BI. The project consists of multiple dashboards, all derived from sales data, but designed for different business purposes. The Sales Dashboard is the core dashboard, containing multiple pages. Stock Dashboard and Customer Receivables Dashboard are separate dashboards within the same project. Navigation is provided through top-level buttons and page tabs for easy user interaction.
+Sales order and payment status
 
-Data Includes: Invoice and sales transaction details Salesperson and customer information OEM and product type data Location and territory details Stock and purchase values Sales order and payment status Customer receivables and overdue information
+Customer receivables and overdue information
 
-This single dataset supports Sales, Stock, Sales Order Status, and Customer Receivables dashboards. 📈 Sales Dashboard (Main Dashboard)
+This single dataset supports Sales, Stock, Sales Order Status, and Customer Receivables dashboards.
 
-The Sales Dashboard is the core dashboard of the project. It focuses on analyzing overall sales performance and contains multiple analytical pages. | [Live](https://app.fabric.microsoft.com/groups/cb93d1ec-de42-4674-a267-9577f6d6107c/reports/5e25cbb8-6f07-40d6-b946-49385aecd384/3ef6d9a5036f72494207?experience=fabric-developer) / [GitHub](https://github.com/Maitrisoni1803/sales-analysis-.git) |
+🧭 Dashboard Structure
+Dashboards in this Project:
 
-### portfolio
+Sales Dashboard (Main dashboard with multiple pages)
 
-**Technologies Used:** html , css ,js, python , sql , excel ,power bi , dax , microsoft fabric
+Stock Dashboard (Separate dashboard)
 
-### sales analysis
+Sales Order Status Dashboard (Separate dashboard)
 
-### Business Performance 
+Customer Receivables Dashboard (Separate dashboard)
 
-## 🎓 Education
+All dashboards are interactive and connected through filters and navigation buttons.
 
-| Institution | Degree | Duration |
-|---|---|---|
-| SVIT, Vasad — Gujarat | Bachelor Of Engineering | 2021-09 - 2025-05 |
-| Parth School of Science, Vadodara | Higher Secondary | 2025-03 - 2025-07 |
+📈 Sales Dashboard (Main Dashboard)
 
-### Bachelor Of Engineering in Information Technology
-*SVIT, Vasad — Gujarat*
+The Sales Dashboard is the core dashboard of the project.
+It focuses on analyzing overall sales performance and contains multiple analytical pages.
 
-### Higher Secondary in 11th and 12th
-*Parth School of Science, Vadodara*
+🏠 Home Page – Sales Overview
 
-## 💼 Internships
+The Home Page provides a high-level overview of sales performance. It displays key KPIs such as total sales, total profit, total orders, profit margin, and peak sales month. MTD and YTD cards help monitor short-term and long-term trends. This page allows users to quickly assess overall sales health.
 
-| Company | Position | Duration |
-|---|---|---|
-| TactTree LLP | Data Analyst – Research & Operations | 2025-06 -  |
-| ITCG Solution Pvt. Ltd. | Data Analyst Intern | 2025-01 - 2025-04 |
+📊 Sales Page
 
-### Data Analyst – Research & Operations at TactTree LLP
+This page offers a detailed view of overall sales performance. It shows total sales, profit, total orders, and profit margin. Users can apply filters such as date, location, OEM, territory, salesperson, product type, and customer. Visuals highlight top salespersons, location-wise sales distribution, OEM group contribution, and sales trends across months, quarters, and years.
 
-t TactTree LLP, I conduct web-based research to collect, structure, and validate data for operational use. I maintain and update internal databases with a strong focus on accuracy and consistency. I also utilize MS Excel to organize, analyze, and present data effectively for reporting and business insights.
+🏭 OEM Page
 
-### Data Analyst Intern at ITCG Solution Pvt. Ltd.
+The OEM page analyzes sales performance by OEM partnerships. It helps identify which OEMs are contributing consistently to sales and profit. By tracking volumes and trends over time, this page supports identifying strategic OEM partners versus transactional ones.
 
-At ITCG Solutions, I worked on Power BI dashboards, DAX calculations, and Power Query transformations. I wrote SQL queries to extract and clean datasets and used Python for data preprocessing and automation. I also performed Excel-based analysis and collaborated with the team to support data-driven decision-making.
+👥 Customer Page
 
-## 📞 Contact & Links
+The Customer page evaluates customer contribution and behavior over time. It focuses not only on sales value but also on customer loyalty and repeat purchases. Metrics such as customer value and order frequency help in deciding retention strategies and shifting focus from one-time sales to long-term customer relationships.
 
-<div align="left">
+📦 Product Type Page
 
-- 📫 How to reach me **maitrinsoni183@gmail.com**
-- 👨‍💻 All of my projects are available at [https://github.com/Maitrisoni1803](https://github.com/Maitrisoni1803)
-- 📄 Know about my experiences [https://drive.google.com/file/d/15G4VXoT_kAMtPcrld2eoxyWOd64fjw8B/view?usp=drivesdk](https://drive.google.com/file/d/15G4VXoT_kAMtPcrld2eoxyWOd64fjw8B/view?usp=drivesdk)
+This page highlights sales and profit by product type. It helps identify top-performing and underperforming product categories. The insights support decisions related to product focus, pricing strategies, bundling, and future product planning based on customer demand trends.
 
-</div>
+🌍 Territory Page
 
-## ⚡ Fun Fact
+The Territory page provides insights into sales and profit performance by region. It helps identify strong and weak territories, market maturity, and growth potential. This page supports territory-wise sales planning, resource allocation, and regional expansion strategies.
 
-<div align="center">
+🏷️ Stock Dashboard (Separate Dashboard)
 
-*overthinker :(*
+The Stock Dashboard provides a comprehensive view of inventory status. It displays current inventory levels, stock value, and OEM-wise stock distribution. Low stock items are highlighted to support proactive replenishment planning. The dashboard also supports warehouse categorization and stock movement tracking. Interactive filters allow exploration based on product category, reorder status, and OEM.
 
-</div>
+📑 Sales Order Status Dashboard (Separate Dashboard)
 
-## 🌐 Connect with Me
+This dashboard provides an overview of sales order health. It tracks key metrics such as total orders, pending quantities, order processing time, and fulfillment rates. The dashboard helps identify operational bottlenecks, especially in pending orders, with the goal of streamlining order processing and improving customer satisfaction.
 
-<div align="center">
+💰 Customer Receivables Dashboard (Separate Dashboard)
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Maitrisoni1803)&nbsp;&nbsp;&nbsp;[![Twitter/X](https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/maitrisoni_183)&nbsp;&nbsp;&nbsp;[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/https://www.linkedin.com/in/maitri-soni-a19753312/)
+The Customer Receivables Dashboard focuses on outstanding customer payments. It tracks overdue status, overdue amounts, and aging buckets such as 0–30, 31–60, and 61–90 days. This dashboard helps identify delayed payments, improve cash flow management, and streamline collection efforts by prioritizing overdue accounts.
+🎯 Overall Learning Outcome
 
-</div>
+Overall, this project shows how an interactive sales analysis system helps management:
 
-## 🛠️ Skills & Technologies
+Make data-driven decisions
 
-### 💻 Programming Languages
+Improve sales performance and profitability
 
-<img src="https://cdn.simpleicons.org/c/A8B9CC?size=32" alt="C"  />&nbsp;&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/php/777BB4?size=32" alt="PHP"  />&nbsp;&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/python/3776AB?size=32" alt="Python"  />&nbsp;&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/java/007396?size=32" alt="Java"  />&nbsp;&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/javascript/F7DF1E?size=32" alt="JavaScript"  />
+Manage inventory efficiently
 
-### 💻 Frontend Development
+Streamline order processing
 
-<img src="https://cdn.simpleicons.org/css3/1572B6?size=32" alt="CSS3"  />&nbsp;&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/tailwindcss/06B6D4?size=32" alt="Tailwind CSS"  />&nbsp;&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/html5/E34F26?size=32" alt="HTML5"  />&nbsp;&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/bootstrap/7952B3?size=32" alt="Bootstrap"  />
+Improve cash flow through better receivables management
 
-### 💻 AI/ML
-
-<img src="https://cdn.simpleicons.org/pandas/150458?size=32" alt="Pandas"  />&nbsp;&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/seaborn/3776AB?size=32" alt="Seaborn"  />&nbsp;&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/scikitlearn/F7931E?size=32" alt="scikit-learn"  />&nbsp;&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/opencv/5C3EE8?size=32" alt="OpenCV"  />&nbsp;&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/tensorflow/FF6F00?size=32" alt="TensorFlow"  />
-
-### 💻 Database
-
-<img src="https://cdn.simpleicons.org/mongodb/47A248?size=32" alt="MongoDB"  />&nbsp;&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/mysql/4479A1?size=32" alt="MySQL"  />&nbsp;&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/postgresql/4169E1?size=32" alt="PostgreSQL"  />&nbsp;&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/oracle/F80000?size=32" alt="Oracle"  />&nbsp;&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/microsoftsqlserver/CC2927?size=32" alt="Microsoft SQL Server"  />
-
-### 💻 Software
-
-<img src="https://cdn.simpleicons.org/figma/F24E1E?size=32" alt="Figma"  />
-
-### 💻 Other
-
-<img src="https://cdn.simpleicons.org/git/F05032?size=32" alt="Git"  />
-
-### 💻 DevOps
-
-<img src="https://cdn.simpleicons.org/microsoftazure/0078D4?size=32" alt="Azure"  />
-
----
-
-<div align="center">
-
-### 🎯 "Code is like humor. When you have to explain it, it's bad." – Cory House
-
-**Thank you for visiting my profile! 😊**
-
-![Profile Views](https://komarev.com/ghpvc/?username=yourusername&color=brightgreen&style=flat-square&label=Profile+Views)
-
-</div>
+It demonstrates the practical use of data analytics and business intelligence tools to support strategic, operational, and financial decision-making.
